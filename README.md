@@ -1,6 +1,6 @@
 # reportsvc
-report
 《报表服务》使用说明
+<pre>
 ⇧多维报表，这里是指通过将类似SQL的查询结果集，转换成具有复杂表头html table格式的工具。
 根据实际使用场景，分别提供reportServer,和API形式的封装，同样地提供了Windows环境和Linux环境下的产品。
 API动态库	reportServer(HttpServer)
@@ -79,3 +79,4 @@ Linux:
 	类似Windows，在shell下，根据需要执行以下命令。
 	./reportServer  1024 -d		(即时运行一次，关闭后即退出)
 	./reportServer  1024 	    (以守护进程方式运行)
+</pre>
