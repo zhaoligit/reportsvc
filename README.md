@@ -1,7 +1,7 @@
 # 欢迎使用《报表服务》
 报表服务
 
-[查看安装使用说明]( https://htmlpreview.github.io/?https://github.com/zhaoligit/reportsvc/blob/master/index.html)
+[查看安装使用说明]( https://htmlpreview.github.io/?https://github.com/zhaoligit/reportsvc/blob/master/index.html)  
 通过SQL查询结果集生成复杂多维表格,有中文成员排序,可自定义列头顺序.
 
 ## 下载
