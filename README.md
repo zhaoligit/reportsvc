@@ -8,10 +8,10 @@ reportserver.zip zip格式的打包文件
 webApp.zip  报表API调用例子  
 ------
 
-  |API动态库|报表服务(HttpServer)
---|--------|--------
-Windows	|Report4Java.dll	|reportServer.exe
-Linux	|libReport4Java.so	|reportServer
+  |API动态库|报表服务(HttpServer)  
+----|--------|--------  
+Windows	|Report4Java.dll	|reportServer.exe  
+Linux	|libReport4Java.so	|reportServer  
 
 ## 特色：
 1. 只需要通过常用的关系查询结果集，即可生成便于分析的多维表格。
