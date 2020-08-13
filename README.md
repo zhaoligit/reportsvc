@@ -24,7 +24,7 @@ Linux  	|libReport4Java.so  |reportServer
 ### 解压：
     unzip reportserver.zip -d .  
     或 tar -xvf reportserver.tar   
-### 运行：
+### 运行：(然后通过 http://127.0.0.1:1024 即可访问)
 >Windows:  
 >>在cmd窗口，根据需要，执行以下命令。  
 >>reportServer.exe 1024 -d		(即时运行一次，关闭后即退出)  
