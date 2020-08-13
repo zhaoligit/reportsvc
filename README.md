@@ -3,10 +3,9 @@
 
 [查看安装使用说明]( https://htmlpreview.github.io/?https://github.com/zhaoligit/reportsvc/blob/master/index.html)
 
-reportserver.tar tar格式的打包文件  
-reportserver.zip zip格式的打包文件  
-webApp.zip  报表API调用例子  
-------
+ reportserver.tar tar格式的打包文件  
+ reportserver.zip zip格式的打包文件  
+ webApp.zip  报表API调用例子  
 
 　　　　|     API动态库     |报表服务(HttpServer)  
 ---------|-------------------|-----------------  
@@ -24,13 +23,14 @@ Linux  	|libReport4Java.so  |reportServer
     两个压缩文件内容相同，仅压缩打包方式不同。  
 ### 解压：
     unzip reportserver.zip -d .  
- 或 tar -xvf reportserver.tar   
+    或 tar -xvf reportserver.tar   
 ### 运行：
-Windows:  
-	在cmd窗口，根据需要，执行以下命令。  
-	reportServer.exe 1024 -d		(即时运行一次，关闭后即退出)  
-	reportServer.exe 1024 -i		(安装为Windows服务，服务名为ReportServer1024，这个需要管理员权限)  
-Linux:  
-	类似Windows，在shell下，根据需要执行以下命令。  
-	./reportServer  1024 -d		(即时运行一次，关闭后即退出)  
-	./reportServer  1024 	    (以守护进程方式运行)  
+>Windows:  
+>>在cmd窗口，根据需要，执行以下命令。  
+>>reportServer.exe 1024 -d		(即时运行一次，关闭后即退出)  
+>>reportServer.exe 1024 -i		(安装为Windows服务，服务名为ReportServer1024，这个需要管理员权限)  
+
+>Linux:  
+>>类似Windows，在shell下，根据需要执行以下命令。  
+>>./reportServer  1024 -d		(即时运行一次，关闭后即退出)  
+>>./reportServer  1024 	    (以守护进程方式运行)  
