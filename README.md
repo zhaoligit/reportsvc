@@ -3,9 +3,9 @@
 
 [查看安装使用说明]( https://htmlpreview.github.io/?https://github.com/zhaoligit/reportsvc/blob/master/index.html)
 
-reportserver.tar tar格式的打包文件
-reportserver.zip zip格式的打包文件
-webApp.zip  报表API调用例子
+reportserver.tar tar格式的打包文件  
+reportserver.zip zip格式的打包文件  
+webApp.zip  报表API调用例子  
 
 ## 特色：
 1. 只需要通过常用的关系查询结果集，即可生成便于分析的多维表格。
