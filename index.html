@@ -6,6 +6,40 @@
     <title>欢迎使用《{服务名}》</title>
     <link rel="stylesheet" type="text/css" href="default.css">
     <style>
+::-webkit-scrollbar {
+    width : 0px;   
+    height: 1px;
+    background-color: transparent;
+    }
+body{line-height: 30px;font-family:NSimSun;
+    background-image: linear-gradient(to right,
+     rgba(93, 82, 247, 0.925) , 
+     rgba(245, 241, 241, 0.911) 7.5%,
+     rgba(245, 241, 241, 0.911) 92.5%,
+     rgba(93, 82, 247, 0.918) );}
+img{opacity: 1;}
+
+table.gridTable{border-collapse: collapse;}
+table.gridTable td:not(.colhdr):not(.rowhdr){text-align: center;color:blue;cursor: pointer;min-width: 50px;}
+
+table td.colhdr{text-align: center;white-space: nowrap; background-color: rgba(12, 27, 243, 0.692);}
+table td.rowhdr{vertical-align: top; white-space: nowrap;}
+a:link,a:visited,a:hover{text-decoration:none;color: blue;}
+a:hover{color: red;}
+
+table.gridTable td.logo{cursor: pointer;background-color: rgba(99, 99, 196, 0.774);}
+#table.gridTable tr:nth-child(6n){background-color:#1090cc;} 
+td.sum{background-color: rgba(121, 160, 235, 0.863);}
+table.gridTable tbody {
+    height: 200px;
+    overflow-y: auto;
+}
+table.gridTable tbody tr:hover{
+    background-color: burlywood;
+}
+input,textarea{BACKGROUND-COLOR: transparent;}
+textarea,input{border:1px solid #cccccc;}
+textarea:hover,textarea:focus,input:hover,input:focus{border:1px solid green;outline: none;}
         table.helptab,
         table {
             border-collapse: collapse;
