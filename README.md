@@ -8,6 +8,8 @@
  [reportserver.zip](https://github.com/zhaoligit/reportsvc/blob/master/reportServer.zip) zip格式的打包文件  
  [webApp.zip](https://github.com/zhaoligit/reportsvc/blob/master/webApp.zip)  报表API调用例子  
 
+![示例图片](https://github.com/zhaoligit/reportsvc/blob/master/demotab.png)
+
 　　　　|     API动态库     |报表服务(HttpServer)  
 ---------|-------------------|-----------------  
 Windows	|Report4Java.dll    |reportServer.exe  
