@@ -3,9 +3,10 @@
 
 [查看安装使用说明]( https://htmlpreview.github.io/?https://github.com/zhaoligit/reportsvc/blob/master/index.html)
 
- reportserver.tar tar格式的打包文件  
- reportserver.zip zip格式的打包文件  
- webApp.zip  报表API调用例子  
+## 下载
+ [reportserver.tar](https://github.com/zhaoligit/reportsvc/blob/master/reportserver.tar) tar格式的打包文件  
+ [reportserver.zip](https://github.com/zhaoligit/reportsvc/blob/master/reportServer.zip) zip格式的打包文件  
+ [webApp.zip](https://github.com/zhaoligit/reportsvc/blob/master/webApp.zip)  报表API调用例子  
 
 　　　　|     API动态库     |报表服务(HttpServer)  
 ---------|-------------------|-----------------  
